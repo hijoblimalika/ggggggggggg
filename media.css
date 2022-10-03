@@ -1,0 +1,134 @@
+@media screen and (max-width: 400px){
+    .item{
+        display: none;
+    }
+    .button button{
+       display: none;
+    }
+    .button1 img{
+        display: none;
+    }
+    .nav_1_img{
+        width: 130px;
+        height: 44px;
+    }
+    .li_icons i{
+        display: block;
+        margin-left: 400px;
+    }
+    .nav_top{
+        width: 200%;
+    }
+    .nav_top h1{
+        width: 40%;
+    }
+    .nav_top p{
+        width: 40%;
+    }
+    .nav_top3{
+        display: block;
+    }
+    .nav_top3 img{
+        width: 150%;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .nav_top3_text{
+        transform: translateY(-250px);
+        font-size: 20px;
+        align-items: center;
+        margin-left: 200px;
+        width: 100%;
+
+    }
+  }
+
+@media screen and (max-width: 304px){
+    .item{
+        display: none;
+    }
+    .button button{
+       display: none;
+    }
+    .button1 img{
+        display: none;
+    }
+    .nav_1_img{
+        width: 130px;
+        height: 44px;
+    }
+    .li_icons i{
+        /* transform: translateX(100px); */
+        margin-left: 200px;
+        font-size: 38px;
+        display: block;
+    }
+    .nav_top{
+        width: 200%;
+    }
+    .nav_top h1{
+        width: 80%;
+    }
+    .nav_top p{
+        width: 80%;
+    } 
+}
+@media screen and (max-width: 309px){
+    .item{
+        display: none;
+    }
+    .button button{
+       display: none;
+    }
+    .button1 img{
+        display: none;
+    }
+    .nav_1_img{
+        width: 130px;
+        height: 44px;
+    }
+    .li_icons i{
+        /* transform: translateX(100px); */
+        margin-left: 400px;
+        font-size: 38px;
+        display: block;
+    }
+    .nav_top{
+        width: 300%;
+    }
+    .nav_top h1{
+        width: 40%;
+    }
+    .nav_top p{
+        width: 40%;
+    } 
+}
+@media screen and (max-width: 319px){
+    .item{
+        display: none;
+    }
+    .button button{
+       display: none;
+    }
+    .button1 img{
+        display: none;
+    }
+    .nav_1_img{
+        width: 130px;
+        height: 44px;
+    }
+    .li_icons i{
+        /* transform: translateX(100px); */
+        margin-left: 800px;
+        font-size: 38px;
+        display: block;
+    }
+    .nav_top{
+        width: 400%;
+    }
+    .nav_top h1{
+        width: 20%;
+    }
+    .nav_top p{
+        width: 20%;
+    }}
